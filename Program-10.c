@@ -1,7 +1,7 @@
 //INPUT: 12
 //OUTPUT: Square root of 12.00 = 3.46
 #include <stdio.h>
-// include the missing line
+ include the missing line
 int main()
 {
    float num, root;
